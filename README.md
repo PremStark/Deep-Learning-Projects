@@ -10,10 +10,7 @@ Welcome to the **Deep Learning Projects** repository! This repository serves as 
   - [2. Convolutional Neural Networks (CNN)](#2-convolutional-neural-networks-cnn)
   - [3. Recurrent Neural Networks (RNN / LSTM / GRU)](#3-recurrent-neural-networks-rnn--lstm--gru)
 - [Summary Comparison](#-summary-comparison)
-- [Repository Structure](#-repository-structure)
-- [Getting Started](#-getting-started)
-- [How to Run](#-how-to-run)
-
+  
 ---
 
 ## 🌌 Architectures Explained
